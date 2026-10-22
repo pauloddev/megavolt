@@ -7,6 +7,6 @@ Landing page da MegaVolt — motos, scooters, bicicletas e patinetes elétricos 
 - `index.html` — página completa (HTML/CSS/JS em um arquivo)
 - `img/` — imagens otimizadas (WebP)
 
-Para publicar via GitHub Pages: Settings → Pages → Branch `main` / root.
+Site: https://megavolt-theta.vercel.app/
 
 Contato: WhatsApp 21 98441-3583 · @megavoltmobilidade
